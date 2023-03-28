@@ -1,0 +1,17 @@
+/build
+/testing_support
+/infra
+/depot_tools
+/infra_internal
+/bcid
+/build_internal
+/puppet
+/systems
+/data
+/release_scripts
+/gcloud
+/golang
+/.cipd
+/.gclient*
+/.gocache
+/.modcache
