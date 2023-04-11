@@ -89,4 +89,4 @@ hooks = [
   },
 ]
 
-recursedeps = ["infra", "build", "build_internal"]
+recursedeps = ["infra", "build", "build_internal", "infra_internal"]
