@@ -1,7 +1,7 @@
 # infra_superproject.git repository A
 B
 This is the root superproject repo for Chrome Infra used to manage dependencies
-for the project.
+for the project. C2
 
 This repo should only contain documentation and dependency management files like
 .gitmodules or DEPS.
