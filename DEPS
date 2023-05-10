@@ -15,7 +15,7 @@ vars = {
 
 deps = {
   "build": {
-    "url": "{chromium_git}/chromium/tools/build.git@b2a9f9a9de9139aa2dc683fdfb8ca2dd289ea388",
+    "url": "{chromium_git}/chromium/tools/build.git@6f7c7ae9db084cd86e314917a58a93068b524a83",
   },
 
   "testing_support": {
