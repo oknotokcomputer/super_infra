@@ -23,7 +23,7 @@ deps = {
   },
 
   "infra": {
-    "url": "{chromium_git}/infra/infra.git@16e80912113c3f484a0d134b42d6f0b5f03903b0",
+    "url": "{chromium_git}/infra/infra.git@529396e96d01eed34797fa2152c150409cd99549",
   },
 
   "infra_internal": {
