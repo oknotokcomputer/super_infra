@@ -64,7 +64,7 @@ deps = {
   },
 
   "data/k8s": {
-    "url": "{chrome_internal_git}/infradata/k8s.git@a4cd9d710321aa9fc2044935fdf737d703bd50eb",
+    "url": "{chrome_internal_git}/infradata/k8s.git@5fe473907eeadbb164505eee73930710a09acf10",
     "condition": "checkout_internal",
   },
 
