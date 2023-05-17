@@ -59,7 +59,7 @@ deps = {
   },
 
   "data/gae": {
-    "url": "{chrome_internal_git}/infradata/gae.git@90851a581225cac2eb5384edb8e7b8dfba4b7dab",
+    "url": "{chrome_internal_git}/infradata/gae.git@94c4f9b1f35213001492c13f1353c434ab536488",
     "condition": "checkout_internal",
   },
 
