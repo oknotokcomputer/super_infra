@@ -77,6 +77,16 @@ deps = {
     "url": "{chrome_internal_git}/chrome/tools/release/scripts.git@3bc427c41aa239779c8e499b553d99ada5f6dff7",
     "condition": "checkout_internal",
   },
+
+  "gcloud": {
+    'packages': [
+      {
+        'package': 'infra/3pp/tools/gcloud/${{os=mac,linux}}-${{arch=amd64}}',
+        'version': 'version:2@427.0.0.chromium.3',
+      }
+    ],
+    'dep_type': 'cipd',
+  },
 }
 
 hooks = [
