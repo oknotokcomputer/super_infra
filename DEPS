@@ -43,7 +43,7 @@ deps = {
   },
 
   "puppet": {
-    "url": "{chrome_internal_git}/infra/puppet.git@d92ddf577d56cd11b087245bd3b6de70d2eae354",
+    "url": "{chrome_internal_git}/infra/puppet.git@4e025a4f755eb2fb87bcff44857d89aa75dd0075",
     "condition": "checkout_internal",
   },
 
