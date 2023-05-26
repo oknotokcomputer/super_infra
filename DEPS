@@ -23,7 +23,7 @@ deps = {
   },
 
   "infra": {
-    "url": "{chromium_git}/infra/infra.git@0dd7ae646ba8d436bd541c270e1f1c639c22df10",
+    "url": "{chromium_git}/infra/infra.git@0f58de5250fa9a499e23c4db437000787c83ece7",
   },
 
   "infra_internal": {
@@ -76,6 +76,16 @@ deps = {
   "release_scripts": {
     "url": "{chrome_internal_git}/chrome/tools/release/scripts.git@e78e809d4943385a6667dc8c7a78cc20c08cbffc",
     "condition": "checkout_internal",
+  },
+
+  "gcloud": {
+    'packages': [
+      {
+        'package': 'infra/3pp/tools/gcloud/${{os=mac,linux}}-${{arch=amd64}}',
+        'version': 'version:2@427.0.0.chromium.3',
+      }
+    ],
+    'dep_type': 'cipd',
   },
 }
 
