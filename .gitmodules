@@ -1,0 +1,39 @@
+[submodule "build"]
+	path = build
+	url = https://chromium.googlesource.com/chromium/tools/build.git
+[submodule "testing_support"]
+	path = testing_support
+	url = https://chromium.googlesource.com/infra/testing/testing_support.git
+[submodule "infra"]
+	path = infra
+	url = https://chromium.googlesource.com/infra/infra.git
+[submodule "infra_internal"]
+	path = infra_internal
+	url = https://chrome-internal.googlesource.com/infra/infra_internal.git
+[submodule "bcid"]
+	path = bcid
+	url = https://chrome-internal.googlesource.com/external/gob/team/bcid-software-team/provenance.git
+[submodule "build_internal"]
+	path = build_internal
+	url = https://chrome-internal.googlesource.com/chrome/tools/build.git
+[submodule "puppet"]
+	path = puppet
+	url = https://chrome-internal.googlesource.com/infra/puppet.git
+[submodule "systems"]
+	path = systems
+	url = https://chrome-internal.googlesource.com/chrome-golo/chrome-golo.git
+[submodule "data/config"]
+	path = data/config
+	url = https://chrome-internal.googlesource.com/infradata/config.git
+[submodule "data/gae"]
+	path = data/gae
+	url = https://chrome-internal.googlesource.com/infradata/gae.git
+[submodule "data/k8s"]
+	path = data/k8s
+	url = https://chrome-internal.googlesource.com/infradata/k8s.git
+[submodule "data/rbe"]
+	path = data/rbe
+	url = https://chrome-internal.googlesource.com/infradata/rbe.git
+[submodule "release_scripts"]
+	path = release_scripts
+	url = https://chrome-internal.googlesource.com/chrome/tools/release/scripts.git
