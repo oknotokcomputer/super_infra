@@ -38,3 +38,4 @@ yiwzhang@google.com
 zhangtiff@chromium.org
 zhangtiff@google.com
 per-file DEPS=chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com
+per-file DEPS=chromium-autoroll@skia-public.iam.gserviceaccount.com
