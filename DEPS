@@ -27,11 +27,11 @@ deps = {
   },
 
   "infra": {
-    "url": "{chromium_git}/infra/infra.git@1930f7d328d1dc83c45ae8383d8368a3d010e5b8",
+    "url": "{chromium_git}/infra/infra.git@d87f50f289a6336bfb1e9d287fd7e4b3094bd791",
   },
 
   "infra_internal": {
-    "url": "{chrome_internal_git}/infra/infra_internal.git@78729d96884dd9eaca53af4d196be3a5330f9d6f",
+    "url": "{chrome_internal_git}/infra/infra_internal.git@bdac45cca6125eeaeb7c8de8d87fd02998f206b9",
     "condition": "checkout_internal",
   },
 
