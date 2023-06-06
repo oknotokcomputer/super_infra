@@ -8,7 +8,7 @@
 	path = infra
 	url = https://chromium.googlesource.com/infra/infra.git
 [submodule "infra_internal"]
-	path = infra_internal
+	path = infra_internal_2
 	url = https://chrome-internal.googlesource.com/infra/infra_internal.git
 [submodule "bcid"]
 	path = bcid
