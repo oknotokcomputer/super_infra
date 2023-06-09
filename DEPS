@@ -31,7 +31,7 @@ deps = {
   },
 
   "infra_internal": {
-    "url": "{chrome_internal_git}/infra/infra_internal.git@a2921c54b6e535942cd97055beec5386e69666a4",
+    "url": "{chrome_internal_git}/infra/infra_internal.git@9e8cb42d1a021c66a526d26bf061f05cfd308545",
     "condition": "checkout_internal",
   },
 
