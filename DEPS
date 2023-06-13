@@ -73,7 +73,7 @@ deps = {
   },
 
   "data/rbe": {
-    "url": "{chrome_internal_git}/infradata/rbe.git@f7cf00e59fa90cd3d67b1f079bba6a6dd9c1f5db",
+    "url": "{chrome_internal_git}/infradata/rbe.git@e760e277d05fed611ebd092799a8f6f25f971cf6",
     "condition": "checkout_internal",
   },
 
