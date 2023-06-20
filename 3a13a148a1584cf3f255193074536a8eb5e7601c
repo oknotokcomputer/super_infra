@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "61b2ed62_1b349db2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1237795
+      },
+      "writtenOn": "2023-06-20T21:48:02Z",
+      "side": 1,
+      "message": "lgtm minus infra + infra_internal causing merge conflicts?",
+      "revId": "3a13a148a1584cf3f255193074536a8eb5e7601c",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
