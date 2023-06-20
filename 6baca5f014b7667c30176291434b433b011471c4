@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b8d646c3_68e806e4",
+        "filename": ".gitmodules",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1237795
+      },
+      "writtenOn": "2023-06-20T21:35:41Z",
+      "side": 1,
+      "message": "This needs to be added to DEPS as well. We\u0027ll eventually remove all git deps from DEPS",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 24
+      },
+      "revId": "6baca5f014b7667c30176291434b433b011471c4",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
