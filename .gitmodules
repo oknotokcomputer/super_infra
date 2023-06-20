@@ -37,3 +37,6 @@
 [submodule "release_scripts"]
 	path = release_scripts
 	url = https://chrome-internal.googlesource.com/chrome/tools/release/scripts.git
+[submodule "recipes-py"]
+	path = recipes-py
+	url = https://chromium.googlesource.com/infra/luci/recipes-py
