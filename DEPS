@@ -30,6 +30,10 @@ deps = {
     "url": "{chromium_git}/infra/infra.git@2e7407c97e005d4ba1ea67326399a0bcc6a6871f",
   },
 
+  "recipes-py": {
+    "url": "{chromium_git}/infra/luci/recipes-py.git@75b9406263af4b729ea0daa4a91285295469081d",
+  },
+
   "infra_internal": {
     "url": "{chrome_internal_git}/infra/infra_internal.git@553ba66b9f171bb1da3a55a623238e6cdbe6edd8",
     "condition": "checkout_internal",
