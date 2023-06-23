@@ -62,7 +62,7 @@ deps = {
 
   # Not runtime dependencies, just included for ease of development.
   "data/config": {
-    "url": "{chrome_internal_git}/infradata/config.git@a0f081b86878e26d5942e4cdd3ddee5972a9de53",
+    "url": "{chrome_internal_git}/infradata/config.git@d3b250d8d44d9d5fe7e9988eaa39ec9cc667b51c",
     "condition": "checkout_internal",
   },
 
