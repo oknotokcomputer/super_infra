@@ -31,7 +31,7 @@ deps = {
   },
 
   "recipes-py": {
-    "url": "{chromium_git}/infra/luci/recipes-py.git@bd754c98beabe90fd6132301ae549b57fba76ff1",
+    "url": "{chromium_git}/infra/luci/recipes-py.git@83b050a23d0ed1017df2411629dd273e16ce9339",
   },
 
   "infra_internal": {
