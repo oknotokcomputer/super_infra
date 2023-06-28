@@ -10,9 +10,6 @@
 [submodule "infra_internal"]
 	path = infra_internal
 	url = https://chrome-internal.googlesource.com/infra/infra_internal.git
-[submodule "bcid"]
-	path = bcid
-	url = https://chrome-internal.googlesource.com/external/gob/team/bcid-software-team/provenance.git
 [submodule "build_internal"]
 	path = build_internal
 	url = https://chrome-internal.googlesource.com/chrome/tools/build.git

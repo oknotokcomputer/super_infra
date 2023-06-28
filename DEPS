@@ -39,12 +39,6 @@ deps = {
     "condition": "checkout_internal",
   },
 
-  "bcid": {
-    "url": "{chrome_internal_git}/external/gob/team/bcid-software-team/provenance.git@" +
-    "853c183f8c591f5d1eb17695125f0b5eb2d57abd",
-    "condition": "checkout_internal",
-  },
-
   "build_internal": {
     "url": "{chrome_internal_git}/chrome/tools/build.git@bb302e0208de89fc13645ba5e083c3e4b4840e33",
     "condition": "checkout_internal",
