@@ -37,3 +37,6 @@
 [submodule "recipes-py"]
 	path = recipes-py
 	url = https://chromium.googlesource.com/infra/luci/recipes-py
+[submodule "data/cloud-run"]
+	path = data/cloud-run
+	url = https://chrome-internal.googlesource.com/infradata/cloud-run.git
