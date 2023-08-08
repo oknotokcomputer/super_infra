@@ -40,7 +40,7 @@ deps = {
   },
 
   "build_internal": {
-    "url": "{chrome_internal_git}/chrome/tools/build.git@ddc3087d20f5abcb3cc686d9dad4071da5b1149e",
+    "url": "{chrome_internal_git}/chrome/tools/build.git@7c030409b812f46d2738b977eb8a385ed53b14d9",
     "condition": "checkout_internal",
   },
 
