@@ -16,4 +16,3 @@ USE_PYTHON3 = True
 def CheckCommon(input_api, output_api):  # pragma: no cover
   return input_api.canned_checks.PanProjectChecks(input_api, output_api,
                                                   owners_check=False)
-

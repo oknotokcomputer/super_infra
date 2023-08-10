@@ -1,5 +1,7 @@
 use_relative_paths = True
 
+git_dependencies = "SYNC"
+
 vars = {
   # This is used during the transition phase of moving infra repos to git
   # submodules. To add new deps here check with the Chrome Source Team.
