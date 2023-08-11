@@ -52,7 +52,7 @@ deps = {
   },
 
   "systems": {
-    "url": "{chrome_internal_git}/chrome-golo/chrome-golo.git@daf0b74655fcff8fbde0d1cecf9971e3b023cd51",
+    "url": "{chrome_internal_git}/chrome-golo/chrome-golo.git@51f7c8ecd8801b8e422ad33dd99aaafff3939899",
     "condition": "checkout_internal",
   },
 
