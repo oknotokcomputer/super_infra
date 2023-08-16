@@ -29,7 +29,7 @@ deps = {
   },
 
   "infra": {
-    "url": "{chromium_git}/infra/infra.git@b12d0396c377123e08b8f0256d4cc3401464f564",
+    "url": "{chromium_git}/infra/infra.git@a2dd0e548af8a293b62935bb60882165df149b04",
   },
 
   "recipes-py": {
