@@ -83,7 +83,7 @@ deps = {
   },
 
   "release_scripts": {
-    "url": "{chrome_internal_git}/chrome/tools/release/scripts.git@2f817a315894aa66e6b3eb0eb5344a437d4d61bd",
+    "url": "{chrome_internal_git}/chrome/tools/release/scripts.git@2d50763da0d1b3988cdfa0eb0a347947c8bf7443",
     "condition": "checkout_internal",
   },
 
