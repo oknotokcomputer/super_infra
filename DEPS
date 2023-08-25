@@ -57,7 +57,7 @@ deps = {
   },
 
   "data/cloud-run": {
-    "url": "{chrome_internal_git}/infradata/cloud-run.git@540dae40a98ac2479facc533b1c70a69f33e8cf2",
+    "url": "{chrome_internal_git}/infradata/cloud-run.git@c5abd7f07a8b4576b8c523a8f3ade7cd550f458d",
     "condition": "checkout_internal",
   },
 
