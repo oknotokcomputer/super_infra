@@ -1,52 +1,52 @@
 [submodule "build"]
 	path = build
-	url = https://chromium.googlesource.com/chromium/tools/build.git
+	url = https://chromium.googlesource.com/chromium/tools/build
 [submodule "testing_support"]
 	path = testing_support
-	url = https://chromium.googlesource.com/infra/testing/testing_support.git
+	url = https://chromium.googlesource.com/infra/testing/testing_support
 [submodule "infra"]
 	path = infra
-	url = https://chromium.googlesource.com/infra/infra.git
+	url = https://chromium.googlesource.com/infra/infra
 [submodule "recipes-py"]
 	path = recipes-py
-	url = https://chromium.googlesource.com/infra/luci/recipes-py.git
+	url = https://chromium.googlesource.com/infra/luci/recipes-py
 [submodule "infra_internal"]
 	path = infra_internal
-	url = https://chrome-internal.googlesource.com/infra/infra_internal.git
+	url = https://chrome-internal.googlesource.com/infra/infra_internal
 	gclient-condition = checkout_internal
 [submodule "build_internal"]
 	path = build_internal
-	url = https://chrome-internal.googlesource.com/chrome/tools/build.git
+	url = https://chrome-internal.googlesource.com/chrome/tools/build
 	gclient-condition = checkout_internal
 [submodule "puppet"]
 	path = puppet
-	url = https://chrome-internal.googlesource.com/infra/puppet.git
+	url = https://chrome-internal.googlesource.com/infra/puppet
 	gclient-condition = checkout_internal
 [submodule "systems"]
 	path = systems
-	url = https://chrome-internal.googlesource.com/chrome-golo/chrome-golo.git
+	url = https://chrome-internal.googlesource.com/chrome-golo/chrome-golo
 	gclient-condition = checkout_internal
 [submodule "data/cloud-run"]
 	path = data/cloud-run
-	url = https://chrome-internal.googlesource.com/infradata/cloud-run.git
+	url = https://chrome-internal.googlesource.com/infradata/cloud-run
 	gclient-condition = checkout_internal
 [submodule "data/config"]
 	path = data/config
-	url = https://chrome-internal.googlesource.com/infradata/config.git
+	url = https://chrome-internal.googlesource.com/infradata/config
 	gclient-condition = checkout_internal
 [submodule "data/gae"]
 	path = data/gae
-	url = https://chrome-internal.googlesource.com/infradata/gae.git
+	url = https://chrome-internal.googlesource.com/infradata/gae
 	gclient-condition = checkout_internal
 [submodule "data/k8s"]
 	path = data/k8s
-	url = https://chrome-internal.googlesource.com/infradata/k8s.git
+	url = https://chrome-internal.googlesource.com/infradata/k8s
 	gclient-condition = checkout_internal
 [submodule "data/rbe"]
 	path = data/rbe
-	url = https://chrome-internal.googlesource.com/infradata/rbe.git
+	url = https://chrome-internal.googlesource.com/infradata/rbe
 	gclient-condition = checkout_internal
 [submodule "release_scripts"]
 	path = release_scripts
-	url = https://chrome-internal.googlesource.com/chrome/tools/release/scripts.git
+	url = https://chrome-internal.googlesource.com/chrome/tools/release/scripts
 	gclient-condition = checkout_internal
