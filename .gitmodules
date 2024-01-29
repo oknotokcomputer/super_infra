@@ -1,9 +1,6 @@
 [submodule "build"]
 	path = build
 	url = https://chromium.googlesource.com/chromium/tools/build
-[submodule "testing_support"]
-	path = testing_support
-	url = https://chromium.googlesource.com/infra/testing/testing_support
 [submodule "infra"]
 	path = infra
 	url = https://chromium.googlesource.com/infra/infra
