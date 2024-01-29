@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2aab14f5_6bdc2b0d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1560543
+      },
+      "writtenOn": "2024-01-29T23:25:25Z",
+      "side": 1,
+      "message": "I also checked usage, and found only this: https://chromium.googlesource.com/infra/infra/+/refs/heads/main/doc/source.md\n\nSo, LGTM.",
+      "revId": "3735185d544ad9bb9dff0b274c3ffd8232ea6663",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    }
+  ]
+}
