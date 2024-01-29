@@ -16,6 +16,23 @@
       "message": "I\u0027ve removed all of the dependencies on this from the infra repo -- should we remove it from the superproject as well?",
       "revId": "e5be8fc7a48bd8ba8e952abd62db9f427b0aa984",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a708aa1_86624d41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1560543
+      },
+      "writtenOn": "2024-01-29T18:24:39Z",
+      "side": 1,
+      "message": "If we no longer need testing_support anywhere (ie repo can be archived), then removing from superproject is okay.\n\nNote that testing_support gitlink is not removed (`git rm testing_support`, see https://chromium.googlesource.com/chromium/src/+/main/docs/dependencies.md#Deleting-dependencies)",
+      "revId": "e5be8fc7a48bd8ba8e952abd62db9f427b0aa984",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
     }
   ]
 }
