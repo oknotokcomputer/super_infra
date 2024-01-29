@@ -33,6 +33,24 @@
       "message": "If we no longer need testing_support anywhere (ie repo can be archived), then removing from superproject is okay.\n\nNote that testing_support gitlink is not removed (`git rm testing_support`, see https://chromium.googlesource.com/chromium/src/+/main/docs/dependencies.md#Deleting-dependencies)",
       "revId": "e5be8fc7a48bd8ba8e952abd62db9f427b0aa984",
       "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3c126dbc_6c0e299a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1115868
+      },
+      "writtenOn": "2024-01-29T22:42:46Z",
+      "side": 1,
+      "message": "Ah, ok thanks.\n\nI think this is correct that we don\u0027t need it anywhere and the repo can be archived. If such a change is tricky to rollback if I am wrong, I\u0027ll wait and confirm with iannucci@ when he\u0027s back.",
+      "parentUuid": "2a708aa1_86624d41",
+      "revId": "e5be8fc7a48bd8ba8e952abd62db9f427b0aa984",
+      "serverId": "3ce6091f-6c88-37e8-8c75-72f92ae8dfba"
     }
   ]
 }
