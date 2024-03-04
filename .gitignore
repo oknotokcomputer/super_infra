@@ -13,3 +13,4 @@
 /.gclient*
 /.gocache
 /.modcache
+.vscode
